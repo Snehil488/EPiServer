@@ -92,3 +92,17 @@ C:\Users\Snehil\Desktop\EPiServer\CMSTraining\AlloyTraining\obj\Debug\AlloyTrain
 C:\Users\Snehil\Desktop\EPiServer\CMSTraining\AlloyTraining\obj\Debug\AlloyTraining.csproj.CopyComplete
 C:\Users\Snehil\Desktop\EPiServer\CMSTraining\AlloyTraining\obj\Debug\AlloyTraining.dll
 C:\Users\Snehil\Desktop\EPiServer\CMSTraining\AlloyTraining\obj\Debug\AlloyTraining.pdb
+C:\Users\Snehil\Desktop\EPiServer\CMSTraining\AlloyTraining\bin\EPiServer.Find.Blocks.dll
+C:\Users\Snehil\Desktop\EPiServer\CMSTraining\AlloyTraining\bin\EPiServer.Find.Cms.dll
+C:\Users\Snehil\Desktop\EPiServer\CMSTraining\AlloyTraining\bin\EPiServer.Find.dll
+C:\Users\Snehil\Desktop\EPiServer\CMSTraining\AlloyTraining\bin\EPiServer.Find.Framework.dll
+C:\Users\Snehil\Desktop\EPiServer\CMSTraining\AlloyTraining\bin\EPiServer.Find.Optimizations.dll
+C:\Users\Snehil\Desktop\EPiServer\CMSTraining\AlloyTraining\bin\EPiServer.Find.Statistics.dll
+C:\Users\Snehil\Desktop\EPiServer\CMSTraining\AlloyTraining\bin\EPiServer.Find.UI.dll
+C:\Users\Snehil\Desktop\EPiServer\CMSTraining\AlloyTraining\bin\System.Net.Http.Formatting.dll
+C:\Users\Snehil\Desktop\EPiServer\CMSTraining\AlloyTraining\bin\System.Web.Http.dll
+C:\Users\Snehil\Desktop\EPiServer\CMSTraining\AlloyTraining\bin\System.Web.Http.WebHost.dll
+C:\Users\Snehil\Desktop\EPiServer\CMSTraining\AlloyTraining\bin\EPiServer.Find.xml
+C:\Users\Snehil\Desktop\EPiServer\CMSTraining\AlloyTraining\bin\System.Net.Http.Formatting.xml
+C:\Users\Snehil\Desktop\EPiServer\CMSTraining\AlloyTraining\bin\System.Web.Http.xml
+C:\Users\Snehil\Desktop\EPiServer\CMSTraining\AlloyTraining\bin\System.Web.Http.WebHost.xml

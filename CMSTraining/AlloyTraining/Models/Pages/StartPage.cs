@@ -12,6 +12,7 @@ namespace AlloyTraining.Models.Pages
         GUID = "33a6eaf6-d315-4809-8fa2-47d9e01648e5", Description = "The home page for a website with an area for blocks and partial pages.")]
 
     [SiteStartIcon]
+    [AvailableContentTypes(Include = new[] { typeof(StandardPage) })]
     public class StartPage : SitePageData
     {
 
@@ -36,6 +37,15 @@ namespace AlloyTraining.Models.Pages
         Description = "The footer text will be shown at the bottom of every page.",
         GroupName = SiteTabNames.SiteSettings, Order = 10)]
         public virtual string FooterText { get; set; }
+
+        [CultureSpecific]
+        [Display(Name = "Main content area",
+        Description = "Drag and drop images, blocks, folders, and pages with partial templates.",
+        GroupName = SystemTabNames.Content,
+        Order = 30)]
+        [AllowedTypes(typeof(StandardPage), typeof(BlockData),
+        typeof(ImageData))]
+        public virtual ContentArea MainContentArea { get; set; }
 
     }
 }
